@@ -2,6 +2,7 @@
 #include <cstdlib>
 #include <ctime>  
 #include <limits>
+#include <ios>
 
 using namespace std;
 
